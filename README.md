@@ -6,9 +6,9 @@ BÁO CÁO BÀI THỰC HÀNH LAB 1
 Tên bài Lab
 - Bài Lab: Lab 1 
 Nội dung đã thực hiện
-- [ ] ping máy ubuntu qua ping máy client kali
+- [ ] ping máy ubuntu qua ping máy attack kali
 
  Kết quả thực hiện
-- ping thành công giữa máy ubuntu và máy client kali
+- ping thành công giữa máy ubuntu và máy attack kali
  Lưu ý khi kiểm tra / chạy lại bài
 - *Môi trường:* VMware
